@@ -1,4 +1,3 @@
-# frontend-nanodegree-arcade-game-master
 
 # Classic Arcade Game Clone Project
 Classic Arcade Game has long been a favorite game for all generations. It is easy to play,the idea of it is to make player go to the other side without touching the enemy (bugs) , once the player touch it the player return to the beginning .
